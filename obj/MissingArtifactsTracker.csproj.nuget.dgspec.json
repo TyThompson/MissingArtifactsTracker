@@ -1,0 +1,92 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\RoR2Mod\\MissingArtifactsTracker\\MissingArtifactsTracker.csproj": {}
+  },
+  "projects": {
+    "C:\\RoR2Mod\\MissingArtifactsTracker\\MissingArtifactsTracker.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\RoR2Mod\\MissingArtifactsTracker\\MissingArtifactsTracker.csproj",
+        "projectName": "MissingArtifactsTracker",
+        "projectPath": "C:\\RoR2Mod\\MissingArtifactsTracker\\MissingArtifactsTracker.csproj",
+        "packagesPath": "C:\\Users\\tytho\\.nuget\\packages\\",
+        "outputPath": "C:\\RoR2Mod\\MissingArtifactsTracker\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\RoR2Mod\\MissingArtifactsTracker\\NuGet.Config",
+          "C:\\Users\\tytho\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "framework": "netstandard2.1",
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "10.0.400"
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "framework": "netstandard2.1",
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "BepInEx.Core": {
+              "target": "Package",
+              "version": "[5.4.21, )"
+            },
+            "RiskOfRain2.GameLibs": {
+              "target": "Package",
+              "version": "[1.3.6-r.0, )"
+            },
+            "UnityEngine.Modules": {
+              "include": "Compile",
+              "target": "Package",
+              "version": "[2021.3.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "NETStandard.Library.Ref",
+              "version": "[2.1.0, 2.1.0]"
+            }
+          ],
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

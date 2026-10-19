@@ -1,0 +1,8 @@
+is_global = true
+build_property.RootNamespace = MissingArtifactsTracker
+build_property.ProjectDir = C:\RoR2Mod\MissingArtifactsTracker\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.CsWinRTUseWindowsUIXamlProjections = false
+build_property.EffectiveAnalysisLevelStyle = 
+build_property.EnableCodeStyleSeverity = 

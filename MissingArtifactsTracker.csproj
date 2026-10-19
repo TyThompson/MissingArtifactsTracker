@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Automatically pulls BepInEx and Unity assemblies -->
+    <PackageReference Include="BepInEx.Core" Version="5.4.21" />
+    <PackageReference Include="UnityEngine.Modules" Version="2021.3.33" IncludeAssets="compile" />
+    <!-- Automatically pulls RoR2 game assemblies (Assembly-CSharp) -->
+    <PackageReference Include="RiskOfRain2.GameLibs" Version="1.3.6-r.0" />
+  </ItemGroup>
+
+</Project>

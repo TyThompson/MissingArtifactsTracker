@@ -1,0 +1,10 @@
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.AssemblyInfoInputs.cache
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.AssemblyInfo.cs
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.csproj.CoreCompileInputs.cache
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.csproj.AssemblyReference.cache
+C:\RoR2Mod\MissingArtifactsTracker\bin\Release\netstandard2.1\MissingArtifactsTracker.deps.json
+C:\RoR2Mod\MissingArtifactsTracker\bin\Release\netstandard2.1\MissingArtifactsTracker.dll
+C:\RoR2Mod\MissingArtifactsTracker\bin\Release\netstandard2.1\MissingArtifactsTracker.pdb
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.dll
+C:\RoR2Mod\MissingArtifactsTracker\obj\Release\netstandard2.1\MissingArtifactsTracker.pdb
