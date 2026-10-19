@@ -13,7 +13,7 @@ namespace MissingArtifactsTracker
     {
         public const string PluginGUID = "com.yourname.missingartifacts";
         public const string PluginName = "MissingArtifactsTracker";
-        public const string PluginVersion = "1.4.0";
+        public const string PluginVersion = "1.5.0";
 
         // Compound codes for Bulwark's Ambry
         private static readonly Dictionary<string, string> ArtifactCodes = new Dictionary<string, string>(StringComparer.OrdinalIgnoreCase)

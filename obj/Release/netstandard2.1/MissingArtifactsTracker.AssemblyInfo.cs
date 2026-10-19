@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MissingArtifactsTracker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d1385ca53a70443a6295fa32e1699ea962771d19")]
 [assembly: System.Reflection.AssemblyProductAttribute("MissingArtifactsTracker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MissingArtifactsTracker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
